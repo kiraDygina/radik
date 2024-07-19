@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+header{text-align: center;}
+main p{color:#C8D2D1;}
+main img{border:5px solid #F1BAA1;
+border-radius: 19px;background-color:#BCAF4D}
+body{background-color:gray;}
+main {text-align: center;}
+main img{width: 500px;}
+header .red{text-align: left;}
+footer {text-align: center;}
+footer h1 {color: #C8D2D1;}
+footer a {color: black;}
+body {font-family: "Playwrite HU", cursive;
+}
+header h1{color:#C8D2D1;}
+main h1{color:#C8D2D1;}
+.ssylka {width: 25px; height: 25px;}
+header a{color:  #C8D2D1}
+header a{border-radius: 19px;background-color:#BCAF4D ;border:5px   solid black;
+padding: 7px;
+}
+.x{margin-top: 50px;}
+
+
+
+
+
+
+
+
+
+
